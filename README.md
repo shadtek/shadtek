@@ -1,2 +1,2 @@
 # shadtek
-Website for my work protfolio.
+Website for my work portfolio.
