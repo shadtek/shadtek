@@ -1,4 +1,5 @@
-# 💫 About Me:
+<h1 align="center"> Hi 👋🏻, I'm Spencer Shattuck </br> 
+</h1>
 🔭 I’m currently working on Next.js, Shopify, and WordPress projects—building performant, scalable user experiences.<br>👯 I’m looking to collaborate on open source tools or libraries in the ecommerce or frontend space.<br>🤝 I’m looking for help with streamlining analytics workflows and insights.<br>🌱 I’m currently learning AI integration and advanced performance tuning techniques.<br>💬 Ask me about Shopify custom app development, storefront performance, or migrating legacy systems to modern stacks.<br>⚡ Fun fact: I once shaved 3 seconds off a page load just by tweaking image handling and caching—small things really add up.
 
 
